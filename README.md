@@ -17,7 +17,7 @@ you will see the server is running message when you start the session.
 ![title](https://github.com/nipuniuthpala/images/blob/master/5.png)
 
 
-5.Download or clone the project and open it in intellij idea,Give the same url that you have used to start appium in your java code and run the code as mentioned below. You will see the app is tested through the mobile phone.
+5.Download or clone the project and open it in intellij idea,Give the same url that you have used to start appium in your java code and run the code as mentioned below. Run the CalculateMedianTest class You will see the app is tested through the mobile phone.
 ![title](https://github.com/nipuniuthpala/images/blob/master/6.png)
 
 
